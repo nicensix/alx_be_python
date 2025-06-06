@@ -1,7 +1,7 @@
 shopping_list = []  # Global variable to store the shopping list
 
 def display_menu():
-    print("\nShopping List Manager")  # Display the menu
+    print("Shopping List Manager")  # Display the menu
     print("1. Add Item")
     print("2. Remove Item")
     print("3. View List")
